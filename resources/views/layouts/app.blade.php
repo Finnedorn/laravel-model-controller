@@ -18,9 +18,7 @@
 <body>
     @include('partials.header')
 
-        @yield('content')
-
-    @include('partials.footer')
+    @yield('content')
 </body>
 
 </html>
